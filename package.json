@@ -1,0 +1,56 @@
+{
+  "name": "jonaguas.github.io",
+  "version": "2.0.0",
+  "description": "Jon Aguas Personal Portfolio",
+  "main": "index.js",
+  "author": "Jon Aguas",
+  "bugs": {
+    "url": "https://github.com/JonAguas/JonAguas.github.io/issues"
+  },
+  "keywords": [
+    "Jon",
+    "Jon Aguas",
+    "Jon Aguas Portfolio",
+    "JonAguas",
+    "Jon Aguas Personal Portfolio"
+  ],
+  "repository": "https://github.com/JonAguas/JonAguas.github.io",
+  "homepage": "https://JonAguas.github.io",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "dependencies": {
+    "@angular/animations": "^18.0.0",
+    "@angular/common": "^18.0.0",
+    "@angular/compiler": "^18.0.0",
+    "@angular/core": "^18.0.0",
+    "@angular/forms": "^18.0.0",
+    "@angular/platform-browser": "^18.0.0",
+    "@angular/platform-browser-dynamic": "^18.0.0",
+    "@angular/router": "^18.0.0",
+    "@angular/service-worker": "^18.0.0",
+    "@ng-bootstrap/ng-bootstrap": "^17.0.1",
+    "@popperjs/core": "^2.11.8",
+    "rxjs": "^7.8.2",
+    "zone.js": "~0.15.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.0.0",
+    "@angular/cli": "^18.0.0",
+    "@angular/compiler-cli": "^18.0.0",
+    "@types/jasmine": "~3.6.0",
+    "@types/node": "^12.11.1",
+    "angular-cli-ghpages": "^1.0.7",
+    "jasmine-core": "~3.7.0",
+    "karma": "~6.3.14",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.0.3",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "^1.5.0",
+    "typescript": "5.4.5"
+  }
+}
