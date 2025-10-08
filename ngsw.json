@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1759941035684,
+  "timestamp": 1759941468201,
   "index": "/JonAguas.github.io/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/JonAguas.github.io/758.239da3b2639ed399.js",
+        "/JonAguas.github.io/758.05981b1ecae212aa.js",
         "/JonAguas.github.io/872.32e97e7b1b22d9f9.js",
         "/JonAguas.github.io/favicon.ico",
         "/JonAguas.github.io/index.html",
         "/JonAguas.github.io/main.d9c0bf1a58575364.js",
         "/JonAguas.github.io/polyfills.a21e57213bf3985e.js",
-        "/JonAguas.github.io/runtime.cf70c43d8d8f3886.js",
+        "/JonAguas.github.io/runtime.069e544c0a0e4a21.js",
         "/JonAguas.github.io/scripts.c78764bbd4fdb025.js",
         "/JonAguas.github.io/styles.804ceb170ff23f3e.css"
       ],
@@ -114,7 +114,7 @@
   "dataGroups": [],
   "hashTable": {
     "/JonAguas.github.io/404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
-    "/JonAguas.github.io/758.239da3b2639ed399.js": "5a05f08daf7e3d0afb7dd6d7c3e8a66578b83d35",
+    "/JonAguas.github.io/758.05981b1ecae212aa.js": "cd2a1bb16749de0e2c86fdeaff8f572b0ad84e3e",
     "/JonAguas.github.io/872.32e97e7b1b22d9f9.js": "a36f024a5b10e8ef1b98f3582c7a5c556c87b2c0",
     "/JonAguas.github.io/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/JonAguas.github.io/apple-touch-icon.png": "990904627b8bbc9eed48bb162465a029a380f9d2",
@@ -191,11 +191,11 @@
     "/JonAguas.github.io/favicon-16x16.png": "02c3ddbfd8a96de8accc424e833ee672824407f9",
     "/JonAguas.github.io/favicon-32x32.png": "dcb1787c019f8b0e5cf43de657d9477f8758d001",
     "/JonAguas.github.io/favicon.ico": "73ff2be88382dc11e31f7df11e9554b50088a5ab",
-    "/JonAguas.github.io/index.html": "d737a12b068a692f22b8a795d8e5ba28d83eae93",
+    "/JonAguas.github.io/index.html": "09f620e072bc5c85bb9a143ad599de6f25f1185f",
     "/JonAguas.github.io/main.d9c0bf1a58575364.js": "c0e1d349566cc5d8438d60bd555b4dfb12d1cafd",
     "/JonAguas.github.io/polyfills.a21e57213bf3985e.js": "5e26cc767175d3af5e7271d29b9e2ece8ee54cff",
     "/JonAguas.github.io/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "/JonAguas.github.io/runtime.cf70c43d8d8f3886.js": "9b496333c9cfb292f26b16bb7aa55e6c338a73f0",
+    "/JonAguas.github.io/runtime.069e544c0a0e4a21.js": "d22134c8e8c57edb8a2d29a9e2d19c98aedd7985",
     "/JonAguas.github.io/scripts.c78764bbd4fdb025.js": "24e470bb90a6c00911af67398d2d75226a06fdd9",
     "/JonAguas.github.io/styles.804ceb170ff23f3e.css": "4b60faf2b09bb47a409a431e3289c0831cad06f0"
   },
