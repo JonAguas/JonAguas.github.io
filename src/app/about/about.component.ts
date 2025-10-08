@@ -25,20 +25,16 @@ export class AboutComponent implements OnInit,AfterViewInit {
 		this.changeDetectorRef.detectChanges();
 	}
 	ngAfterViewInit() {
-		setTimeout(() => {
-			for (const tab of this.aboutData['NavTabs']) {
-			const element = document.getElementById(tab.id + '-tab');
-			if (element) {
-				this.activeElements[tab.id] = element;
-				element.addEventListener('click', (event: any) => event.preventDefault());
+		for(const tab of this.aboutData['NavTabs']){
+			if(!this.activeElements[tab.id]){
+				this.activeElements[tab.id] = document.getElementById(tab.id+'-tab')!!;
 			}
-			}
+			this.activeElements[tab.id].addEventListener('click',(event : any) => event.preventDefault());
+		}
 
-			this.changeActiveTab(this.activeTab);
-		}, 0);
+		this.changeActiveTab(this.activeTab);
 	}
 
-	
 	@HostListener('window:resize', ['$event'])
 	onWindowResize() {
 		this.updateSelector(this.activeTab);
