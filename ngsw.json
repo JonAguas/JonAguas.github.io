@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1759938073093,
+  "timestamp": 1759938646983,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -37,7 +37,6 @@
         "./assets/css/animate.min.css",
         "./assets/css/font-awesome.min.css",
         "./assets/data.min.js",
-        "./assets/docs/CV-JonAguas.pdf",
         "./assets/docs/informe.pdf",
         "./assets/fonts/BlackOpsOne.eot",
         "./assets/fonts/BlackOpsOne.svg",
@@ -121,7 +120,6 @@
     "./assets/css/animate.min.css": "684ea943c06b11c9894a9edc5cb5f2b100a99686",
     "./assets/css/font-awesome.min.css": "b3ef7b04c2d40eb71779a1e32a2483fc59b50e6a",
     "./assets/data.min.js": "3b878ce2b8d2e4420345c4dbd8c8f4e2732d3025",
-    "./assets/docs/CV-JonAguas.pdf": "bd9451d723aae6a958a9c913b946b8dbf7dc9c3b",
     "./assets/docs/informe.pdf": "28c5cec5b401a03cb1760d253ddde11a000dbc50",
     "./assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "./assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
