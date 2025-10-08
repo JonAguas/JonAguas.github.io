@@ -7,7 +7,6 @@ import {ApplicationComponent} from './application.component';
 import {HomeComponent} from "../home/home.component";
 import {NavbarComponent} from "../navbar/navbar.component";
 import {AboutComponent} from "../about/about.component";
-import {QuoteComponent} from "../quote/quote.component";
 import {PortfolioComponent} from "../portfolio/portfolio.component";
 import {TrainingComponent} from "../training/training.component";
 import {AchievementComponent} from "../achievement/achievement.component";
@@ -23,7 +22,6 @@ const routes: Routes = [{ path: '', component: ApplicationComponent }];
 		HomeComponent,
 		NavbarComponent,
 		AboutComponent,
-		QuoteComponent,
 		PortfolioComponent,
 		TrainingComponent,
 		AchievementComponent,
