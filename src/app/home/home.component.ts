@@ -22,6 +22,7 @@ export class HomeComponent implements OnInit,AfterViewInit {
 		particlesJS.load('particles-js');
 		this.changeDetectorRef.detectChanges();
 	}
+	
 	ngAfterViewInit() {
 		setTimeout(() => {
 			new Typed("#element", {
@@ -32,5 +33,4 @@ export class HomeComponent implements OnInit,AfterViewInit {
 			});
 		}, 0);
 	}
-
 }
