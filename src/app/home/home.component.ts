@@ -23,6 +23,14 @@ export class HomeComponent implements OnInit,AfterViewInit {
 		this.changeDetectorRef.detectChanges();
 	}
 	ngAfterViewInit() {
-		new Typed("#element",{stringsElement:'#typed-strings',typeSpeed: 100,backDelay: 3000,loop:true});
+		setTimeout(() => {
+			new Typed("#element", {
+			stringsElement: '#typed-strings',
+			typeSpeed: 100,
+			backDelay: 3000,
+			loop: true
+			});
+		}, 0);
 	}
+
 }
