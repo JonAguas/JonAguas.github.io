@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1759939784495,
+  "timestamp": 1759940164723,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "./758.01288e49c13ed228.js",
+        "./758.a6051f8d20886dfc.js",
         "./872.32e97e7b1b22d9f9.js",
         "./favicon.ico",
         "./index.html",
-        "./main.a7869c1f464770b6.js",
+        "./main.e260f1a46c442a15.js",
         "./polyfills.a21e57213bf3985e.js",
-        "./runtime.c9e03ae1781ed23c.js",
+        "./runtime.4743c930b7bab197.js",
         "./scripts.c78764bbd4fdb025.js",
         "./styles.804ceb170ff23f3e.css"
       ],
@@ -114,7 +114,7 @@
   "dataGroups": [],
   "hashTable": {
     "./404.4ed6dad8c73a710d.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
-    "./758.01288e49c13ed228.js": "bb6c74a786f84762488b84ed92a681e94776033a",
+    "./758.a6051f8d20886dfc.js": "c9bb3b4883f488d780913b646e9d1d224766ef2c",
     "./872.32e97e7b1b22d9f9.js": "a36f024a5b10e8ef1b98f3582c7a5c556c87b2c0",
     "./about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "./apple-touch-icon.png": "990904627b8bbc9eed48bb162465a029a380f9d2",
@@ -191,11 +191,11 @@
     "./favicon-16x16.png": "02c3ddbfd8a96de8accc424e833ee672824407f9",
     "./favicon-32x32.png": "dcb1787c019f8b0e5cf43de657d9477f8758d001",
     "./favicon.ico": "73ff2be88382dc11e31f7df11e9554b50088a5ab",
-    "./index.html": "dcbf06f450c42db6b3cf34cd716f0913df97cdb1",
-    "./main.a7869c1f464770b6.js": "af571fcbb92d4bbddb7f6aa7f032af10dbae892f",
+    "./index.html": "2fd13fe6cdd200ac94620d66f138d21d12b22728",
+    "./main.e260f1a46c442a15.js": "b2c80f071d713679094e158dc6f2e4fa135dfdd0",
     "./polyfills.a21e57213bf3985e.js": "5e26cc767175d3af5e7271d29b9e2ece8ee54cff",
     "./quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
-    "./runtime.c9e03ae1781ed23c.js": "2c43294f30695d0f5a47766bb82470b10b01a75f",
+    "./runtime.4743c930b7bab197.js": "39b5eb4badd7e08c9844170f81d42c2913cbd22f",
     "./scripts.c78764bbd4fdb025.js": "24e470bb90a6c00911af67398d2d75226a06fdd9",
     "./styles.804ceb170ff23f3e.css": "4b60faf2b09bb47a409a431e3289c0831cad06f0"
   },
